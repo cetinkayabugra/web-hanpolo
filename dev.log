@@ -1,0 +1,12 @@
+
+> web-hanpolo@0.1.0 dev
+> next dev
+
+⚠ Port 3000 is in use by process 39816, using available port 3001 instead.
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://192.168.56.1:3001
+- Environments: .env.local
+✓ Ready in 689ms
+
+[?25h
